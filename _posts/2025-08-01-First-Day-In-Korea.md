@@ -1,5 +1,5 @@
 ---
-title: Første dag
+title: "Første dag"
 layout: post
 date: 2025-08-1
 categories: Trip To Korea
