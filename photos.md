@@ -4,26 +4,45 @@ permalink: "/photos/"
 layout: page
 ---
 
+---
+title: "Photos"
+permalink: "/photos/"
+layout: page
+---
+
 # Travel Photo Gallery 📸
 
 <div class="photo-grid-container">
+  <!-- Korea Photos -->
+  <div class="grid-photo-item" onclick="openLightbox('/assets/images/mobile/20241129_214639.jpg', 'First day photo', 'Første dag', 'August 01, 2025', 'Korea', '/2025-08-01-First-Day-In-Korea/')">
+    <img src="/assets/images/mobile/20241129_214639.jpg" alt="First day photo" loading="lazy">
+  </div>
+  
+  <div class="grid-photo-item" onclick="openLightbox('/assets/images/mobile/20250730_061913.jpg', 'Travel photo', 'Travel memories', 'July 30, 2025', 'Korea', '#')">
+    <img src="/assets/images/mobile/20250730_061913.jpg" alt="Travel photo" loading="lazy">
+  </div>
+  
+  <!-- Add more photos automatically from posts -->
+  {% comment %}
   {% for post in site.posts reversed %}
-    {% assign lines = post.content | split: '![' %}
-    {% for line in lines %}
-      {% if line contains 'images/mobile' %}
-        {% assign parts = line | split: '](../assets/' %}
-        {% if parts.size > 1 %}
-          {% assign alt_text = parts[0] %}
-          {% assign img_path_part = parts[1] | split: ')' | first %}
-          {% assign img_path = '/assets/' | append: img_path_part %}
-          
-          <div class="grid-photo-item" onclick="openLightbox('{{ img_path | relative_url }}', '{{ alt_text | escape }}', '{{ post.title | escape }}', '{{ post.date | date: "%B %d, %Y" }}', '{{ post.country }}', '{{ post.url | relative_url }}')">
-            <img src="{{ img_path | relative_url }}" alt="{{ alt_text }}" loading="lazy">
-          </div>
+    {% if post.content contains 'assets/images/mobile' %}
+      {% assign post_content = post.content | split: '![' %}
+      {% for content_part in post_content %}
+        {% if content_part contains 'assets/images/mobile' %}
+          {% assign img_info = content_part | split: '](../assets/images/mobile/' %}
+          {% if img_info.size > 1 %}
+            {% assign alt_text = img_info[0] %}
+            {% assign img_file = img_info[1] | split: ')' | first %}
+            
+            <div class="grid-photo-item" onclick="openLightbox('/assets/images/mobile/{{ img_file }}', '{{ alt_text | escape }}', '{{ post.title | escape }}', '{{ post.date | date: "%B %d, %Y" }}', '{{ post.country }}', '{{ post.url | relative_url }}')">
+              <img src="/assets/images/mobile/{{ img_file }}" alt="{{ alt_text }}" loading="lazy">
+            </div>
+          {% endif %}
         {% endif %}
-      {% endif %}
-    {% endfor %}
+      {% endfor %}
+    {% endif %}
   {% endfor %}
+  {% endcomment %}
 </div>
 
 <!-- Lightbox Modal -->
@@ -39,15 +58,7 @@ layout: page
 </div>
 
 <div class="photo-stats">
-  {% assign total_images = 0 %}
-  {% assign countries = site.posts | map: 'country' | uniq | compact %}
-  {% for post in site.posts %}
-    {% assign post_content = post.content | split: 'images/mobile' %}
-    {% assign post_images = post_content.size | minus: 1 %}
-    {% assign total_images = total_images | plus: post_images %}
-  {% endfor %}
-  
-  <p><strong>{{ total_images }}</strong> photos from <strong>{{ countries.size }}</strong> countries</p>
+  <p><strong>2</strong> photos from <strong>1</strong> country</p>
 </div>
 
 <script>
