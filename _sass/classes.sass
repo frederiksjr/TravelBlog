@@ -189,36 +189,42 @@
   position: relative
   max-width: 90%
   max-height: 90%
+  display: flex
+  flex-direction: column
+  align-items: center
   
   img
     max-width: 100%
     max-height: calc(100vh - 150px)
     object-fit: contain
     border-radius: 8px
+    background: white
+    padding: 10px
 
 .lightbox-close
   position: absolute
-  top: -40px
-  right: 0
+  top: -50px
+  right: -20px
   color: white
-  font-size: 35px
+  font-size: 40px
   font-weight: bold
   cursor: pointer
+  z-index: 1001
   
   &:hover
     opacity: 0.7
 
 .lightbox-footer
-  position: absolute
-  bottom: -60px
-  left: 0
-  right: 0
+  margin-top: 20px
   color: white
   text-align: center
+  background: rgba(0, 0, 0, 0.7)
+  padding: 15px 20px
+  border-radius: 8px
   
   p
     margin: 5px 0
-    font-size: 14px
+    font-size: 16px
     
   a
     color: #4da6ff
