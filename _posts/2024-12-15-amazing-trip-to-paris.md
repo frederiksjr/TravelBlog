@@ -3,6 +3,7 @@ title: "My Amazing Trip to Paris"
 layout: post
 date: 2024-12-15
 categories: travel europe
+country: "France"
 ---
 
 ![Eiffel Tower at sunset](https://images.unsplash.com/photo-1502602898536-47ad22581b52?w=800)

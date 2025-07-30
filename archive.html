@@ -5,6 +5,24 @@ layout: default
 
 <article class="meta">
   <header><h1>{{ include.title | default: page.title }}</h1></header>
+  
+  {% assign posts_by_country = site.posts | group_by: 'country' %}
+  {% for country_group in posts_by_country %}
+    <div class="country-group">
+      <h3>{{ country_group.name | default: "Other" }}</h3>
+      <ul class="archive">
+        {% for post in country_group.items %}
+        <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>  <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  {% endfor %}
+</article>Archive"
+layout: default
+---
+
+<article class="meta">
+  <header><h1>{{ include.title | default: page.title }}</h1></header>
   <ul class="archive">
     {% for post in site.posts %}
     <li><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>  <b><a href="{{ post.url | relative_url }}">{{ post.title }}</a></b></li>
