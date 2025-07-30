@@ -1,14 +1,14 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Frederik's Travel Blog"
+author: "Frederik Rashid"
 description: "My blog"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+date_format: "%d, %B, %Y"
 
 # Layout
 
-show_excerpts: true             # show article excerpts instead of archive list on the home page
+show_excerpts: false             # show article excerpts instead of archive list on the home page
 show_frame: true                # display a grey frame on large screens
 show_sidebar: false             # show a sidebar instead of the usual header
 show_minimal: false             # remove all clutter
@@ -18,12 +18,12 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+  - {file: "archive.html", title: Home Change, sidebaricon: home}
+  - {file: "README.md", title: About me, sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
-  - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:frederik310504@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/frederiksjr/travelblog"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
