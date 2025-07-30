@@ -33,5 +33,8 @@ comments:
 #  disqus_shortname: ""         # see https://disqus.com
 #  isso_domain: ""              # see https://isso-comments.de
 
+# Allow future posts (for travel blogging across time zones)
+future: true
+
 plugins:
  - jekyll-feed
