@@ -17,10 +17,11 @@ show_minimal: false             # remove all clutter
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "jens", sidebaricon: home}
+navigation:  # accepts {file, title, url, icon, sidebaricon}
+  - {title: "Blog", file: "blog.md"}                   
+  - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
-  - {title: "Blog", file: "blog.md"}
+  
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:frederik310504@gmail.com"}
