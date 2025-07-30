@@ -3,15 +3,21 @@ layout: default
 title: "Blog"
 ---
 
-{% if site.show_excerpts %}
+<div class="blog-posts">
   {% for post in site.posts %}
-    <article>
-      {% include meta.html post=post %}
-      {{ post.excerpt }}
-      <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
+    <article class="blog-post-preview">
+      <header>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        {% include meta.html post=post %}
+      </header>
+      
+      <div class="post-content">
+        {{ post.excerpt }}
+      </div>
+      
+      <div class="read-more">
+        <a href="{{ post.url | relative_url }}" class="read-more-btn">Read More →</a>
+      </div>
     </article>
   {% endfor %}
-{% else %}
-  {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
-  {{ source | split: "---" | last }}
-{% endif %}
+</div>
