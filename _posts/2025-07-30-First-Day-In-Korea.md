@@ -1,7 +1,7 @@
 ---
 title: "Første dag"
 layout: post
-date: 2025-08-01
+date: 2025-07-30
 categories: travel korea
 country: "Korea"
 ---
