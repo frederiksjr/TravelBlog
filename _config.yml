@@ -20,6 +20,7 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", title: "jens", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
+  - {title: "Blog", file: "blog.md"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:frederik310504@gmail.com"}
