@@ -21,7 +21,7 @@ navigation:  # accepts {file, title, url, icon, sidebaricon}
   - {title: "Home", file: "index.md", sidebaricon: home}
   - {title: "Blog", file: "blog.md"}                   
   - {title: "Archive", file: "archive.html", sidebaricon: archive}
-  - {title: "About", file: "README.md", sidebaricon: address-card}
+  - {title: "Photos", file: "photos.md", sidebaricon: camera}
   
 
 external:                       # accepts {file, title, url, icon, sidebaricon}

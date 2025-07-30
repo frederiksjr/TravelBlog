@@ -13,7 +13,7 @@ Hi there! Welcome to my travel blog where I share all the amazing places I visit
 
 **📚 Archive** - Browse through all my previous travel posts organized by date. Perfect for finding that specific trip you want to read about or just exploring my travel history.
 
-**ℹ️ About** - Learn more about me and this blog.
+**📸 Photos** - View all my travel photos in one beautiful gallery, automatically collected from all my blog posts and organized by trip.
 
 Feel free to explore and follow along on my journey! Don't forget to check back regularly for new posts about my latest adventures.
 
