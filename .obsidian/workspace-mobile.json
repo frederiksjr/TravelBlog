@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/_TEMPLATE.md",
+                "file": "_posts/Bank day.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_TEMPLATE"
+              "title": "Bank day"
             }
           }
         ]
@@ -155,6 +155,8 @@
   },
   "active": "3fa99641c1759fca",
   "lastOpenFiles": [
+    "_posts/_TEMPLATE.md",
+    "_posts/Bank day.md",
     "_posts/Test.md",
     "assets/images/mobile/20250730_061913.jpg",
     "assets/images/mobile/20241129_214639.jpg",
@@ -162,7 +164,6 @@
     "assets/images",
     "_posts/2025-08-01-First-Day-In-Korea.md",
     "20241129_214639.jpg",
-    "_posts/_TEMPLATE.md",
     "20250730_061913.jpg",
     "_posts/2017-02-01-markdown-examples.md",
     "_posts/2024-12-15-amazing-trip-to-paris.md",
