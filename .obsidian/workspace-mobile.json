@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-07-31-Bank-Day.md",
+                "file": "_posts/2025-08-01-Day-1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-07-31-Bank-Day"
+              "title": "2025-08-01-Day-1"
             }
           }
         ]
@@ -155,19 +155,24 @@
   },
   "active": "3fa99641c1759fca",
   "lastOpenFiles": [
-    "_posts/_TEMPLATE.md",
-    "_posts/2025-07-31-Bank-Day.md",
-    "_posts/Test.md",
+    "assets/images/mobile/20250801_090328.jpg",
     "assets/images/mobile/20250730_061913.jpg",
     "assets/images/mobile/20241129_214639.jpg",
+    "assets/images/mobile/0984c54c9536c56e23fc40b098d7803b.mp4",
+    "_posts/2025-08-01-Day-1.md",
+    "assets/images/mobile/20250801_082312.jpg",
+    "Untitled",
+    "_posts/advanced-examples.md",
+    "_posts/markdown-examples.md",
+    "_posts/2017-03-01-welcome-to-jekyll.md",
+    "_posts/2025-07-31-Bank-Day.md",
+    "_posts/_TEMPLATE.md",
+    "_posts/Test.md",
     "assets/images/mobile",
     "assets/images",
-    "_posts/2025-08-01-First-Day-In-Korea.md",
     "20241129_214639.jpg",
     "20250730_061913.jpg",
-    "_posts/2017-02-01-markdown-examples.md",
     "_posts/2024-12-15-amazing-trip-to-paris.md",
-    "MOBILE_BLOGGING_GUIDE.md",
-    "_posts/2017-01-01-advanced-examples.md"
+    "MOBILE_BLOGGING_GUIDE.md"
   ]
 }
