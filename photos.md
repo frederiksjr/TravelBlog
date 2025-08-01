@@ -3,7 +3,6 @@ title: "Photos"
 permalink: "/photos/"
 layout: default
 ---
-
 <article>
   <header class="meta">
     <h1>Travel Photo Gallery 📸</h1>
@@ -11,11 +10,11 @@ layout: default
 
   <div class="photo-grid-container">
     <div class="grid-photo-item">
-      <img src="{{ '/assets/images/mobile/20241129_214639.jpg' | relative_url }}" alt="First day photo" loading="lazy">
+      <img src="{{ '/assets/images/mobile/20250801_082312.jpg' | relative_url }}" alt="Security Check" loading="lazy">
     </div>
     
     <div class="grid-photo-item">
-      <img src="{{ '/assets/images/mobile/20250730_061913.jpg' | relative_url }}" alt="Travel photo" loading="lazy">
+      <img src="{{ '/assets/images/mobile/20250801_090328.jpg' | relative_url }}" alt="Gate Photo" loading="lazy">
     </div>
   </div>
 
