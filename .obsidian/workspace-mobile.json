@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "_posts/2025-08-01-Day-1.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -155,12 +155,13 @@
   },
   "active": "3fa99641c1759fca",
   "lastOpenFiles": [
+    "_posts/2024-12-15-amazing-trip-to-paris.md",
+    "assets/images/mobile/20250801_082312.jpg",
+    "_posts/2025-08-01-Day-1.md",
     "assets/images/mobile/20250801_090328.jpg",
     "assets/images/mobile/20250730_061913.jpg",
     "assets/images/mobile/20241129_214639.jpg",
     "assets/images/mobile/0984c54c9536c56e23fc40b098d7803b.mp4",
-    "_posts/2025-08-01-Day-1.md",
-    "assets/images/mobile/20250801_082312.jpg",
     "Untitled",
     "_posts/advanced-examples.md",
     "_posts/markdown-examples.md",
@@ -172,7 +173,6 @@
     "assets/images",
     "20241129_214639.jpg",
     "20250730_061913.jpg",
-    "_posts/2024-12-15-amazing-trip-to-paris.md",
     "MOBILE_BLOGGING_GUIDE.md"
   ]
 }
