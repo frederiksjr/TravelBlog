@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "photos.md",
+                "file": "_posts/2025-08-02-Airbnb.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "photos"
+              "title": "2025-08-02-Airbnb"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "photos.md",
+            "file": "_posts/2025-08-02-Airbnb.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,15 +155,24 @@
   },
   "active": "3fa99641c1759fca",
   "lastOpenFiles": [
-    "photos-new.md",
-    "photos.md",
-    "MOBILE_BLOGGING_GUIDE.md",
+    "assets/images/mobile/20250802_213357.jpg",
+    "assets/images/mobile/20250802_213100 1.jpg",
+    "assets/images/mobile/20250802_213353.jpg",
+    "assets/images/mobile/20250802_213100.jpg",
+    "assets/images/mobile/20250802_212804.jpg",
+    "assets/images/mobile/20250802_212758.jpg",
     "_posts/2025-08-01-Day-1.md",
+    "_posts/2025-08-02-Airbnb.md",
+    "Untitled.md",
+    "assets/images/mobile/20250802_182856.jpg",
+    "assets/images/mobile/20250802_182446.jpg",
+    "photos.md",
+    "photos-new.md",
+    "MOBILE_BLOGGING_GUIDE.md",
     "_posts/2024-12-15-amazing-trip-to-paris.md",
     "assets/images/mobile/20250801_082312.jpg",
     "assets/images/mobile/20250801_090328.jpg",
     "assets/images/mobile/20250730_061913.jpg",
-    "assets/images/mobile/20241129_214639.jpg",
     "assets/images/mobile/0984c54c9536c56e23fc40b098d7803b.mp4",
     "Untitled",
     "_posts/advanced-examples.md",
@@ -173,8 +182,6 @@
     "_posts/_TEMPLATE.md",
     "_posts/Test.md",
     "assets/images/mobile",
-    "assets/images",
-    "20241129_214639.jpg",
-    "20250730_061913.jpg"
+    "assets/images"
   ]
 }
