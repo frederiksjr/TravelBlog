@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-08-04-Busan"
             }
+          },
+          {
+            "id": "5c3bb3be20f145be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-08-05-Busan-Parks.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-05-Busan-Parks"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,33 +168,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fa99641c1759fca",
+  "active": "5c3bb3be20f145be",
   "lastOpenFiles": [
-    "_posts/2025-08-02-Airbnb.md",
-    "_posts/2025-08-04-Busan.md",
-    "assets/images/mobile/20250802_213357.jpg",
-    "assets/images/mobile/20250802_213100 1.jpg",
-    "assets/images/mobile/20250802_213353.jpg",
-    "assets/images/mobile/20250802_213100.jpg",
-    "assets/images/mobile/20250802_212804.jpg",
-    "assets/images/mobile/20250802_212758.jpg",
-    "_posts/2025-08-01-Day-1.md",
+    "assets/images/mobile/20250805_100758.jpg",
+    "assets/images/mobile/20250805_100755.jpg",
+    "assets/images/mobile/20250805_095939.jpg",
+    "assets/images/mobile/20250805_095412.jpg",
+    "assets/images/mobile/20250805_094258.jpg",
+    "assets/images/mobile/20250805_092955.jpg",
+    "assets/images/mobile/20250805_092825.jpg",
+    "assets/images/mobile/20250805_091437.jpg",
+    "_posts/2025-08-05-Busan-Morning.md",
+    "_posts/2025-08-05-Busan-Parks.md",
+    "assets/images/mobile/20250805_090150.jpg",
+    "assets/images/mobile/20250805_090039.jpg",
+    "assets/images/mobile/20250806_234931.jpg",
+    "_posts/_TEMPLATE.md",
     "Untitled.md",
-    "assets/images/mobile/20250802_182856.jpg",
-    "assets/images/mobile/20250802_182446.jpg",
+    "_posts/2025-08-04-Busan.md",
+    "_posts/2025-08-02-Airbnb.md",
+    "_posts/2025-08-01-Day-1.md",
     "photos.md",
     "photos-new.md",
     "MOBILE_BLOGGING_GUIDE.md",
     "_posts/2024-12-15-amazing-trip-to-paris.md",
-    "assets/images/mobile/20250801_082312.jpg",
-    "assets/images/mobile/20250801_090328.jpg",
     "assets/images/mobile/0984c54c9536c56e23fc40b098d7803b.mp4",
     "Untitled",
     "_posts/advanced-examples.md",
     "_posts/markdown-examples.md",
     "_posts/2017-03-01-welcome-to-jekyll.md",
     "_posts/2025-07-31-Bank-Day.md",
-    "_posts/_TEMPLATE.md",
     "_posts/Test.md",
     "assets/images/mobile",
     "assets/images"
