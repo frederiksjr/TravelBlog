@@ -20,7 +20,7 @@ På toppen af bjerget ligger busan tower, ikke rigtigt noget specielt bare et t�
 
 ### billeder fra busan tower
 
-| ![[20250805_085944.jpg]] | ![[20250805_090039.jpg]] | ![[20250805_090150.jpg]] |
+| ![dragestatue](../assets/images/mobile/20250805_085944.jpg) | ![GENERAL](../assets/images/mobile/20250805_090039.jpg) | ![blomsterur](../assets/images/mobile/20250805_090150.jpg) |
 |---------------------|---------------------|---------------------|
 | Drage statue          | General       | blomster ur           |
 ​
@@ -31,13 +31,13 @@ Som de smarte af jer nok har gættet var Mathias ikke.... stået op...
 
 Men jeg kom sjovt nok forbi det jeg så på jorden igen så tænkte, måske er der noget på den der kunne være sjovt at se
 
-![[20250805_091437.jpg]]
+![floormap](../assets/images/mobile/20250805_091437.jpg)
 
 Har så jeg Democratic park viewpoint, og tænkte der skal jeg da hen. Så på maps der stod det kun var 1 km væk men der stod også det ville tage 1 time. Jeg tænkte ikke så meget over det tænkte bare det var maps der løj som normalt. 
 
 Neeeeej hvor tog jeg fejl det var bare op op og atter op.
 
-|![[20250805_092825.jpg]]     |  ![[20250805_092955.jpg]]   | ![[20250805_094258.jpg]] | 
+|![20min](../assets/images/mobile/20250805_092825.jpg)   |  ![40min](../assets/images/mobile/20250805_092955.jpg)   | ![10min](../assets/images/mobile/20250805_094258.jpg) | 
 | --- | --- | --- |
 | de første 20 min |  efter 40 min   |  de sidste 10 min   |
 
@@ -45,14 +45,14 @@ Det var hårdt men turen her op var også sygt smukt, og på siden af bjerget va
 
 ### På toppen
 Det første jeg fandt var et monuments til soldater unden korea krigen
-![[20250805_095412.jpg]]
+![soldater](../assets/images/mobile/20250805_095412.jpg)
 Her er der ikke så meget mere at sige.
 
 Jeg gik lidt videre og kom til et bygning
-![[20250805_095939.jpg]]
+![bygning](../assets/images/mobile/20250805_095939.jpg)
 Det var en kæmpe bygning med fantastisk udsigt ud over hele busan
 
-|![[20250805_100755.jpg]]     |  ![[20250805_100758.jpg]]   |
+|![memorial](../assets/images/mobile/20250805_100755.jpg)    |  ![busan](../assets/images/mobile/20250805_100758.jpg)   |
 | --- | --- |
 |   memorial af faldne soldater  |   busan  |
 
