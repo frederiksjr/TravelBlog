@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-08-22-update-2.md",
+                "file": "_posts/2025-08-13-rain.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-08-22-update-2"
+              "title": "2025-08-13-rain"
             }
           }
         ],
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2025-08-22-update-2.md",
+            "file": "_posts/2025-08-13-rain.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,8 +171,10 @@
   },
   "active": "5c3bb3be20f145be",
   "lastOpenFiles": [
-    "_posts/2025-08-21-Nami.md",
+    "assets/images/mobile/20250814_214830.jpg",
+    "_posts/2025-08-13-rain.md",
     "_posts/2025-08-22-update-2.md",
+    "_posts/2025-08-21-Nami.md",
     "assets/images/mobile/20250821_143544.jpg",
     "assets/images/mobile/20250821_143506.jpg",
     "assets/images/mobile/20250821_143409.jpg",
@@ -187,7 +189,6 @@
     "_posts/_TEMPLATE.md",
     "_posts/2025-08-16-Palace.md",
     "_posts/2025-08-15-libaration.md",
-    "_posts/2025-08-13-rain.md",
     "_posts/2025-08-12-lotte-world.md",
     "_posts/2025-08-11-Jeju-Day-2.md",
     "_posts/2025-08-10-Jeju-Day-1.md",
@@ -206,7 +207,6 @@
     "Untitled.md",
     "photos.md",
     "photos-new.md",
-    "MOBILE_BLOGGING_GUIDE.md",
     "assets/images/mobile/0984c54c9536c56e23fc40b098d7803b.mp4",
     "Untitled",
     "assets/images/mobile",
