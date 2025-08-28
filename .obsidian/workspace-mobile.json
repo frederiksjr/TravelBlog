@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-08-25-park.md",
+                "file": "_posts/2025-08-28-fly.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-08-25-park"
+              "title": "2025-08-28-fly"
             }
           }
         ],
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "_posts/2025-08-13-rain.md",
+            "file": "_posts/2025-08-26-mountain.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,23 +171,26 @@
   },
   "active": "5c3bb3be20f145be",
   "lastOpenFiles": [
+    "_posts/2025-08-26-mountain.md",
+    "_posts/2025-08-28-fly.md",
+    "_posts/2025-08-27-shop.md",
+    "assets/images/mobile/20250827_135821.jpg",
+    "assets/images/mobile/20250827_135548.jpg",
+    "assets/images/mobile/20250827_101902.jpg",
+    "assets/images/mobile/20250826_150019.jpg",
+    "assets/images/mobile/20250826_143131.jpg",
+    "assets/images/mobile/20250826_134724.jpg",
+    "assets/images/mobile/20250826_133306.jpg",
+    "assets/images/mobile/20250826_133422.jpg",
+    "assets/images/mobile/20250826_132652.jpg",
+    "_posts/2025-08-25-park.md",
     "_posts/2025-08-06-landsby.md",
     "_posts/2025-08-06-Hwangnyeongsan.md",
     "_posts/2025-08-05-haeundae.md",
     "_posts/2025-08-05-Busan-Parks.md",
     "_posts/2025-08-24-beach.md",
     "_posts/_TEMPLATE.md",
-    "_posts/2025-08-25-park.md",
     "assets/images/mobile/20250825_181302.jpg",
-    "assets/images/mobile/20250825_175234.jpg",
-    "assets/images/mobile/20250825_172645.jpg",
-    "assets/images/mobile/20250825_164442.jpg",
-    "assets/images/mobile/20250825_171750.jpg",
-    "assets/images/mobile/20250825_172327.jpg",
-    "assets/images/mobile/20250825_174743.jpg",
-    "assets/images/mobile/20250824_170409.jpg",
-    "assets/images/mobile/20250824_150424.jpg",
-    "assets/images/mobile/20250824_144716.jpg",
     "_posts/2025-08-23-DMZ.md",
     "_posts/2025-08-13-rain.md",
     "_posts/2025-08-22-update-2.md",
@@ -204,8 +207,6 @@
     "_posts/2025-08-02-Airbnb.md",
     "_posts/2025-08-01-Day-1.md",
     "_posts/2025-08-04-Busan.md",
-    "_posts/2025-08-05-Busan-Parks 1.md",
-    "_posts/2025-08-05-Busan-Morning.md",
     "assets/images/mobile/0984c54c9536c56e23fc40b098d7803b.mp4",
     "Untitled",
     "assets/images/mobile",
