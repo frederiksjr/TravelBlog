@@ -8,7 +8,7 @@ permalink: /photos/
 
 # Photos
 
-{% assign pics = site.static_files | where_exp: "f", "f.path contains '/pictures/'" | sort: "path" %}
+{% assign pics = site.static_files | where_exp: "f", "f.path contains '/assets/images/mobile/'" | sort: "path" %}
 {% if pics and pics.size > 0 %}
 <div class="gallery">
   {% for file in pics %}
