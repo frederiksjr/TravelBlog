@@ -1,24 +1,25 @@
 ---
+layout: page
 title: "Photos"
-permalink: "/photos/"
-layout: default
+permalink: /photos/
 ---
-<article>
-  <header class="meta">
-    <h1>Travel Photo Gallery 📸</h1>
-  </header>
 
-  <div class="photo-grid-container">
-    <div class="grid-photo-item">
-      <img src="{{ '/assets/images/mobile/20250801_082312.jpg' | relative_url }}" alt="Security Check" loading="lazy">
-    </div>
-    
-    <div class="grid-photo-item">
-      <img src="{{ '/assets/images/mobile/20250801_090328.jpg' | relative_url }}" alt="Gate Photo" loading="lazy">
-    </div>
-  </div>
+<link rel="stylesheet" href="{{ '/assets/css/photos.css' | relative_url }}" />
 
-  <div class="photo-stats">
-    <p><strong>2</strong> photos from <strong>1</strong> country</p>
-  </div>
-</article>
+# Photos
+
+{% assign pics = site.static_files | where_exp: "f", "f.path contains '/pictures/'" | sort: "path" %}
+{% if pics and pics.size > 0 %}
+<div class="gallery">
+  {% for file in pics %}
+  <figure class="photo">
+    <a href="{{ file.path | relative_url }}" target="_blank" rel="noopener">
+      <img src="{{ file.path | relative_url }}" alt="{{ file.name }}" loading="lazy" />
+    </a>
+    <figcaption>{{ file.name }}</figcaption>
+  </figure>
+  {% endfor %}
+</div>
+{% else %}
+<p>No photos found in the pictures folder.</p>
+{% endif %}
