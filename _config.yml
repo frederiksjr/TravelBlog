@@ -3,7 +3,7 @@ author: "Frederik Rashid"
 description: "My blog"
 permalink: /:title/
 lang: "en"
-excerpt_separator: "\n\n\n"
+excerpt_separator: "\n\n"
 date_format: "%B, %d %Y"
 
 # Layout
