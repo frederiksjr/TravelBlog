@@ -13,28 +13,25 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "assets/images/mobile/20260730_182347.jpg"
+                "file": "assets/images/mobile/20260805_152609.jpg"
               },
               "icon": "lucide-image",
-              "title": "20260730_182347"
+              "title": "20260805_152609"
             }
           },
           {
             "id": "8eaf36fb30960774",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/2026-07-28-Afgang.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/images/mobile/20260805_100508.jpg"
               },
-              "icon": "lucide-file",
-              "title": "2026-07-28-Afgang"
+              "icon": "lucide-image",
+              "title": "20260805_100508"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -54,7 +51,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -182,41 +181,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "8eaf36fb30960774",
+  "active": "84ede7e7a9f45708",
   "lastOpenFiles": [
-    "_posts/2026-07-29-Day-1.md",
+    "assets/images/mobile/20260805_100508.jpg",
+    "assets/images/mobile/20260805_152609.jpg",
+    "assets/images/mobile/20260805_200834.mp4",
+    "assets/images/mobile/20260805_153536.jpg",
+    "assets/images/mobile/20260805_153532.jpg",
+    "assets/images/mobile/20260805_152552.jpg",
+    "_posts/2026-08-03-Movie.md",
+    "assets/images/mobile/20260804_123822.jpg",
+    "assets/images/mobile/20260804_182007.jpg",
+    "assets/images/mobile/20260804_111747.jpg",
+    "assets/images/mobile/20260804_111021.jpg",
+    "assets/images/mobile/20260804_094945.jpg",
+    "assets/images/mobile/20260803_114852.mp4",
+    "assets/images/mobile/20260803_065219.mp4",
+    "_posts/2026-08-02-day-4.md",
+    "_posts/2026-08-01-Slap-af.md",
+    "assets/images/mobile/20260802_125945.mp4",
+    "_posts/2026-07-31-Buksan.md",
+    "assets/images/mobile/20260731_085252.mp4",
     "_posts/2026-07-30-Day-2.md",
-    "assets/images/mobile/20260730_182347.jpg",
-    "assets/images/mobile/20260730_115042.jpg",
-    "assets/images/mobile/20260730_115038.jpg",
-    "assets/images/mobile/20260730_115035.jpg",
-    "assets/images/mobile/20260730_115033.jpg",
-    "assets/images/mobile/20260730_103023.jpg",
-    "assets/images/mobile/20260730_101713.jpg",
-    "assets/images/mobile/20260730_103055.jpg",
-    "assets/images/mobile/20260730_101639.jpg",
-    "assets/images/mobile/20260730_095848.jpg",
+    "assets/images/mobile/jpegoptim-1000-12963.I2Ty0x.tmp",
+    "assets/images/mobile/jpegoptim-1000-12963.biefiG.tmp",
+    "assets/images/mobile/jpegoptim-1000-12963.UrPWBg.tmp",
+    "assets/images/mobile/jpegoptim-1000-12963.m9lWny.tmp",
+    "assets/images/mobile/jpegoptim-1000-12963.0mDose.tmp",
+    "_posts/2026-07-28-Afgang.md",
+    "_posts/advanced-examples.md",
+    "_posts/2026-07-29-Day-1.md",
     "_posts/2025-08-12-lotte-world.md",
     "_posts/2025-08-11-Jeju-Day-2.md",
     "_posts/2025-08-08-update.md",
     "_posts/2025-08-06-Hwangnyeongsan.md",
-    "assets/images/mobile/jpegoptim-1000-22384.8lekYd.tmp",
-    "assets/images/mobile/jpegoptim-1000-22384.2ubyt5.tmp",
-    "assets/images/mobile/jpegoptim-1000-22384.YJP9cl.tmp",
-    "assets/images/mobile/jpegoptim-1000-22384.t6ZVLb.tmp",
-    "assets/images/mobile/jpegoptim-1000-22384.niLFSD.tmp",
-    "assets/images/mobile/jpegoptim-1000-22384.aOHKz5.tmp",
-    "assets/images/mobile/jpegoptim-1000-22384.uzVhW4.tmp",
-    "assets/images/mobile/jpegoptim-1000-22384.yXDWXs.tmp",
-    "assets/images/mobile/jpegoptim-1000-22384.b2i3Hz.tmp",
-    "assets/images/mobile/jpegoptim-1000-22384.i0h2uM.tmp",
     "_posts/2025-08-26-mountain.md",
     "_posts/2025-08-05-Busan-Parks.md",
     "_posts/markdown-examples.md",
     "_posts/2025-08-02-Airbnb.md",
     "_posts/2025-08-04-Busan.md",
     "_posts/2025-08-01-Day-1.md",
-    "_posts/2026-07-28-Afgang.md",
     "_posts/2025-08-21-Nami.md",
     "_posts/2025-08-22-update-2.md",
     "_posts/2025-08-23-DMZ.md",
